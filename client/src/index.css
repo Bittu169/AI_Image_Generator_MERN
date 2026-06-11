@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+  background: #222a35;
+}
+
+/* Scrollbar Thumb */
+::-webkit-scrollbar-thumb {
+  background: #575c66;
+  border-radius: 6px;
+}
+
+/* Scrollbar Hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #626970;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Form Elements */
+button,
+input,
+textarea {
+  font-family: inherit;
+  outline: none;
+  border: none;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  display: block;
+}
