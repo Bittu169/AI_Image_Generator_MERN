@@ -28,8 +28,11 @@ This project allows users to generate AI images from text prompts. It uses a sca
 
 ## 📸 Demo Preview
 
-![AI Image Generator Demo](https://your-image-link.com/demo.png)
----
+### 🖥️ Home Page
+![Home Page](https://raw.githubusercontent.com/Bittu169/AI_Image_Generator_MERN/d0708df7a1174810498b779ab1bb7fd1a109a4f0/Screenshot%202026-06-11%20180546.png)
+
+### 🎨 Generated Image Output
+![Generated Output](https://raw.githubusercontent.com/Bittu169/AI_Image_Generator_MERN/d0708df7a1174810498b779ab1bb7fd1a109a4f0/Screenshot%202026-06-11%20180710.png)
 
 ## 🏗️ Architecture
 ```
