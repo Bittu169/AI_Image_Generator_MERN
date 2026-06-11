@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Button from "./button";
+import Button from "./Button";
 import { useLocation, useNavigate } from "react-router";
 import { AddRounded, WebRounded, ExploreRounded } from "@mui/icons-material";
 
