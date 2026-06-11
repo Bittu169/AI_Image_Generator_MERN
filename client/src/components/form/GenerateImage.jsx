@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { AutoAwesome, CreateRounded } from "@mui/icons-material";
 import TextInput from "../TextInput";
-import Button from "../button";
+import Button from "../Button";
 import { CreatePost, GenerateImageFromPrompt } from "../../api";
 
 const Form = styled.div`
